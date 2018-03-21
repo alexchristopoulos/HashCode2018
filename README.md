@@ -4,3 +4,4 @@ Rank 2101.
 Online round: about 29 000 000 pts.
 In the extended round I managed to optimize it and i got about 45 000 000 points!
 In the zip you will find the solution(java) and visualization for each file on img folder and of course the datasets.
+Team name "import java.Upatras.Ceid.Programmers;".
